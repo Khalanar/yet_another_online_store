@@ -1,1 +1,1 @@
-web: gunicorn yet_another_online_store.wsgi.application
+web: gunicorn yet_another_online_store.wsgi:application
